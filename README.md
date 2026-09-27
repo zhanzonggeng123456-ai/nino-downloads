@@ -2,10 +2,10 @@
 
 Latest direct-install Android QA build:
 
-**[Download Nino 0.4.1 RC50 APK](https://github.com/zhanzonggeng123456-ai/nino-downloads/releases/download/v0.4.1-rc.50/nino-0.4.1-rc.50-local-only-qa.apk)**
+**[Download Nino 0.4.1 RC51 APK](https://github.com/zhanzonggeng123456-ai/nino-downloads/releases/download/v0.4.1-rc.51/nino-0.4.1-rc.51-local-only-qa.apk)**
 
-- Version: `0.4.1-rc.50` (`40150`)
-- Source commit: `eaeea3e6774f89c42c93ff5535da5e10d5461c00`
-- APK SHA-256: `ae1edcbd237445f69e80677e2d1daeecd29a2bda95d1f02525af27ff1b92a4bd`
+- Version: `0.4.1-rc.51` (`40151`)
+- Source commit: `67c8adfa31217f792aa2eb25bf20f0176c4fdf30`
+- APK SHA-256: `9e75d043bf0a28f245c2b0e23555c4d6ee6a92cf05af358d64ed12d9e6720a0c`
 
 This repository contains verified Android QA APK release assets for Nino. The application source remains in the private engineering repository. APK files here are QA-signed direct-install builds; Google Play production releases use Play App Signing.
